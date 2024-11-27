@@ -20,8 +20,8 @@ This project is an application that allows users to record activities, either re
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/anabartos/Calculadora-Propinas-React-TS.git
-cd Calculadora-Propinas-React-TS
+git clone https://github.com/anabartos/Calorie-tracker-react--ts
+cd calorie-tracker-recat--ts
 ```
 
 ### 2. Install dependencies
