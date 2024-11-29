@@ -1,4 +1,4 @@
-# Tip Calculator and Activities Tracker
+#  Calorie Tracker
 
 This project is an application that allows users to record activities, either related to **food** or **exercise**, and track the calories consumed and burned. Users can also add, edit, and delete activities through an interactive form.
 
